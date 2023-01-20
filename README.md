@@ -1,5 +1,5 @@
 # AgregarTareasReact
-App para agregar tareas, creada con React.
+App para agregar tareas, creada con React y es responsive.
 
 /*App.js*/
 import './App.css';
